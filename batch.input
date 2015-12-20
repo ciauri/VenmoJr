@@ -1,0 +1,21 @@
+user Thomas
+user Lisa
+user
+foobar
+user Quincy
+add Thomas 4111111111111111
+add Thomas 5454545454545454
+add Lisa 5454545454545454
+add Quincy 1234567890123456
+pay Thomas Lisa $10.25 burritos
+pay Thomas Quincy $10.00 you're awesome
+pay Lisa Quincy $5.00 pot-luck supplies
+pay Thomas Thomas $1.00 to myself
+pay Quincy Thomas $2.00 a subway card
+add Quincy 5454545454545454
+add Quincy 5555555555554444
+pay Quincy Thomas $14.50 a redbull vodka
+feed Quincy
+balance Quincy
+feed Thomas
+feed Lisa
